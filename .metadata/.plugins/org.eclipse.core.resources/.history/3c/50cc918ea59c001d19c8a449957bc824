@@ -1,0 +1,8 @@
+package com.br.service;
+
+import com.br.domain.model.Userr;
+
+public interface UserService {
+
+	Userr getUserById(Long id);
+}
