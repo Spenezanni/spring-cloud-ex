@@ -1,4 +1,4 @@
-# spring-cloud-ex
+# Spring-Cloud-Ex
 Project Spring Cloud EX
 
 Projeto de Microsserviços com principais tecnologias | Spring Cloud | Spring Boot | Eureka Server | Gateway
