@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.br</groupId>
-	<artifactId>ex-producer </artifactId>
+	<artifactId>ex-kafka-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ex-kafka-producer</name>
 	<description>EX Producer Api Project for Spring Boot</description>

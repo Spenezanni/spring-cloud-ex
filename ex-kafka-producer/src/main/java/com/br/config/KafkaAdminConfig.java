@@ -26,9 +26,16 @@ public class KafkaAdminConfig {
     }
 
     @Bean
-    public KafkaAdmin.NewTopics topics() {
+    public KafkaAdmin.NewTopics topicsProjExTopic() {
         return new KafkaAdmin.NewTopics(
                 TopicBuilder.name("proj-ex-topic").partitions(2).replicas(1).build()
+        );
+    }
+
+    @Bean
+    public KafkaAdmin.NewTopics topicsProjExPayment() {
+        return new KafkaAdmin.NewTopics(
+                TopicBuilder.name("payment-ex-topic").partitions(1).replicas(1).build()
         );
     }
 
