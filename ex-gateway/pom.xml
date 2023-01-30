@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>hr-api-gateway-zuul</artifactId>
+	<artifactId>ex-api-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-api-gateway-zuul</name>
-	<description>Zuul Server</description>
+	<name>ex-api-gateway</name>
+	<description> Server</description>
 
 	<properties>
 		<java.version>11</java.version>
@@ -52,6 +52,7 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-config</artifactId>
 		</dependency>
+		
 	</dependencies>
 
 	<dependencyManagement>
