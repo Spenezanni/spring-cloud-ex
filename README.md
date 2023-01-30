@@ -7,3 +7,7 @@ Imagem dos microsserviços migrados no 'Ex-Eureka-Server'
 
 ![image](https://user-images.githubusercontent.com/32372447/215372998-17df2558-f56c-4b1e-818d-0cae3d753112.png)
 
+Imagem Kafka | Tópico criado proj-ex-topic
+
+![image](https://user-images.githubusercontent.com/32372447/215548219-15dd9e77-a1ed-4e1a-a65e-1771c3c22234.png)
+
