@@ -13,4 +13,7 @@ Imagem Kafka | Tópico criado proj-ex-topic
 
 ![image](https://user-images.githubusercontent.com/32372447/215548638-fe78b3ac-f73e-4094-88ef-9740e9227eb5.png)
 
+Imagem reprodução de um Objeto no Producer.
+
+![image](https://user-images.githubusercontent.com/32372447/215596603-3516fccc-e824-43a7-98e1-564794188612.png)
 
