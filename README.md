@@ -11,3 +11,6 @@ Imagem Kafka | Tópico criado proj-ex-topic
 
 ![image](https://user-images.githubusercontent.com/32372447/215548219-15dd9e77-a1ed-4e1a-a65e-1771c3c22234.png)
 
+![image](https://user-images.githubusercontent.com/32372447/215548638-fe78b3ac-f73e-4094-88ef-9740e9227eb5.png)
+
+
