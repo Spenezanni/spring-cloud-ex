@@ -5,5 +5,5 @@ Projeto de Microsserviços com principais tecnologias | Spring Cloud | Spring Bo
 
 Imagem dos microsserviços migrados no 'Ex-Eureka-Server'
 
-![image](https://user-images.githubusercontent.com/32372447/215187146-f9c9319f-72d7-4b96-af39-5d3a400b6edd.png)
+![image](https://user-images.githubusercontent.com/32372447/215372883-24d16db7-b0b8-4f11-93fb-312ab3a85572.png)
 
