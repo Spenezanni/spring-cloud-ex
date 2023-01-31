@@ -2,12 +2,14 @@ package com.br;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
+@EnableEurekaClient
 @SpringBootApplication
-public class ExProducer1Application {
+public class ExBudgetApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExProducer1Application.class, args);
+		SpringApplication.run(ExBudgetApplication.class, args);
 	}
 
 }
