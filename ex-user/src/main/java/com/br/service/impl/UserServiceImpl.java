@@ -26,5 +26,9 @@ public class UserServiceImpl implements UserService{
 	public Role getRoleById(Long id) {
 		return roleRepository.findById(id).get();
 	}
+
+	public User getUserByEmail(String email) {
+		return userRepository.findByEmail(email);
+	}
 	
 }
