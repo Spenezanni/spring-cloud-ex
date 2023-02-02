@@ -17,3 +17,6 @@ Imagem reprodução de um Objeto no Producer.
 
 ![image](https://user-images.githubusercontent.com/32372447/215596603-3516fccc-e824-43a7-98e1-564794188612.png)
 
+Imagem do Token para autenticação de acesso para cada tipo de perfil de usuário nos microsserviços relacionados no gateway-server.
+
+![image](https://user-images.githubusercontent.com/32372447/216461216-92049b85-59ae-4735-8f53-7f8ce8040d2b.png)
